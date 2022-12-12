@@ -3,7 +3,7 @@ package db_test
 import (
 	"testing"
 
-	"allaboutapps.dev/aw/go-starter/internal/util/db"
+	"improbable-module/internal/util/db"
 	"github.com/go-openapi/swag"
 	"github.com/stretchr/testify/assert"
 )

@@ -3,7 +3,7 @@ package util_test
 import (
 	"testing"
 
-	"allaboutapps.dev/aw/go-starter/internal/util"
+	"improbable-module/internal/util"
 	"github.com/stretchr/testify/require"
 )
 

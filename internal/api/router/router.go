@@ -5,9 +5,9 @@ import (
 	"runtime"
 	"strings"
 
-	"allaboutapps.dev/aw/go-starter/internal/api"
-	"allaboutapps.dev/aw/go-starter/internal/api/handlers"
-	"allaboutapps.dev/aw/go-starter/internal/api/middleware"
+	"improbable-module/internal/api"
+	"improbable-module/internal/api/handlers"
+	"improbable-module/internal/api/middleware"
 	"github.com/labstack/echo/v4"
 	echoMiddleware "github.com/labstack/echo/v4/middleware"
 	"github.com/rs/zerolog/log"

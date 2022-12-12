@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"allaboutapps.dev/aw/go-starter/internal/util"
+	"improbable-module/internal/util"
 	"github.com/stretchr/testify/assert"
 )
 

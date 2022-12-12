@@ -14,10 +14,10 @@ import (
 	"strings"
 	"sync"
 
-	"allaboutapps.dev/aw/go-starter/internal/api"
-	"allaboutapps.dev/aw/go-starter/internal/api/router"
-	"allaboutapps.dev/aw/go-starter/internal/config"
-	"allaboutapps.dev/aw/go-starter/internal/types"
+	"improbable-module/internal/api"
+	"improbable-module/internal/api/router"
+	"improbable-module/internal/config"
+	"improbable-module/internal/types"
 	"github.com/rs/zerolog"
 )
 

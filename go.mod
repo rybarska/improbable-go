@@ -1,4 +1,4 @@
-module allaboutapps.dev/aw/go-starter
+module improbable-module
 
 go 1.17
 

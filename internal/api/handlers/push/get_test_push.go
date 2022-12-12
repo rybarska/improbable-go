@@ -3,9 +3,9 @@ package push
 import (
 	"net/http"
 
-	"allaboutapps.dev/aw/go-starter/internal/api"
-	"allaboutapps.dev/aw/go-starter/internal/api/auth"
-	"allaboutapps.dev/aw/go-starter/internal/util"
+	"improbable-module/internal/api"
+	"improbable-module/internal/api/auth"
+	"improbable-module/internal/util"
 	"github.com/labstack/echo/v4"
 )
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"allaboutapps.dev/aw/go-starter/internal/types"
+	"improbable-module/internal/types"
 	"github.com/volatiletech/sqlboiler/v4/queries/qm"
 )
 

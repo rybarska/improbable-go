@@ -6,9 +6,9 @@ import (
 	"runtime"
 	"time"
 
-	"allaboutapps.dev/aw/go-starter/internal/mailer/transport"
-	"allaboutapps.dev/aw/go-starter/internal/push/provider"
-	"allaboutapps.dev/aw/go-starter/internal/util"
+	"improbable-module/internal/mailer/transport"
+	"improbable-module/internal/push/provider"
+	"improbable-module/internal/util"
 	"github.com/rs/zerolog"
 	"golang.org/x/text/language"
 )

@@ -1,6 +1,6 @@
 package main
 
-import "allaboutapps.dev/aw/go-starter/cmd"
+import "improbable-module/cmd"
 
 func main() {
 	cmd.Execute()

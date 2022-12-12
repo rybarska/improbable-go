@@ -5,9 +5,9 @@ import (
 	"database/sql"
 	"testing"
 
-	"allaboutapps.dev/aw/go-starter/internal/api"
-	"allaboutapps.dev/aw/go-starter/internal/api/router"
-	"allaboutapps.dev/aw/go-starter/internal/config"
+	"improbable-module/internal/api"
+	"improbable-module/internal/api/router"
+	"improbable-module/internal/config"
 )
 
 // WithTestServer returns a fully configured server (using the default server config).

@@ -6,10 +6,10 @@ import (
 	"net/http"
 	"testing"
 
-	"allaboutapps.dev/aw/go-starter/internal/api"
-	"allaboutapps.dev/aw/go-starter/internal/api/httperrors"
-	"allaboutapps.dev/aw/go-starter/internal/api/middleware"
-	"allaboutapps.dev/aw/go-starter/internal/test"
+	"improbable-module/internal/api"
+	"improbable-module/internal/api/httperrors"
+	"improbable-module/internal/api/middleware"
+	"improbable-module/internal/test"
 	"github.com/stretchr/testify/assert"
 )
 

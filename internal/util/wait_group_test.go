@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"allaboutapps.dev/aw/go-starter/internal/util"
+	"improbable-module/internal/util"
 	"github.com/stretchr/testify/assert"
 )
 
